@@ -7,6 +7,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## String
 |  |
 | ------- |
@@ -15,4 +16,8 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
