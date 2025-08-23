@@ -18,25 +18,27 @@ public:
             temp = temp->next;
         }
 
-        if(cnt == n){
+        if(cnt==n){
             ListNode* newHead = head->next;
             delete(head);
             return newHead;
         }
 
-        int res = cnt - n;
+
+        int res = cnt-n;
         temp = head;
         while(temp!=NULL){
             res--;
             if(res==0){
                 break;
             }
-            temp = temp->next;
+            temp =temp->next;
         }
-
-        ListNode* deleteNode = temp->next;
+        ListNode* delNode = temp->next;
         temp->next = temp->next->next;
-        delete(deleteNode);
+        delete(delNode);
         return head;
+
+
     }
 };
