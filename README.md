@@ -34,6 +34,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -46,6 +47,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
