@@ -10,93 +10,52 @@
  */
 class Solution {
 public:
-    // Helper function: reverse a linked list and return new head
-    ListNode* reverseList(ListNode* head) {
-        ListNode* prev = nullptr;
-        ListNode* curr = head;
-        while(curr != nullptr) {
-            ListNode* nextNode = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = nextNode;
+
+    ListNode* reverseLL(ListNode* head){
+        ListNode* temp = head;
+        ListNode* prev = NULL;
+        while(temp!=NULL){
+            ListNode* front = temp->next;
+            temp->next = prev;
+            prev = temp;
+            temp = front;
         }
-        return prev; // new head
+        return prev;
     }
 
-    ListNode* reverseBetween(ListNode* head, int m, int n) {
-        if (m == n) return head;
-
-        ListNode* revStart = nullptr;       // start of sublist
-        ListNode* revStartPrev = nullptr;   // node before sublist
-        ListNode* revEnd = nullptr;         // end of sublist
-        ListNode* revEndNext = nullptr;     // node after sublist
-
-        int i = 1;
-        ListNode* currNode = head;
-
-        while (currNode && i <= n) {
-            if (i < m) revStartPrev = currNode;
-            if (i == m) revStart = currNode;
-            if (i == n) {
-                revEnd = currNode;
-                revEndNext = currNode->next;
+    ListNode* getKthNode(ListNode* temp , int k){
+        k-=1; //pehle hi k ko decrement kardo kyunki we are starting from first node itself
+        while(temp!=NULL && k>0){
+            k--;
+            temp = temp->next;
+            //jaise hi mera k = 0 ho jayega , i will reach my required node and i will return the temp
+        }
+        return temp;
+    }
+    ListNode* reverseKGroup(ListNode* head, int k) {
+        ListNode* temp = head;
+        ListNode* prevNode = NULL;
+        while(temp!=NULL){
+            ListNode* kthNode = getKthNode(temp,k);
+            if(kthNode==NULL){
+                if(prevNode){
+                    prevNode->next = temp;
+                    break;
+                }
             }
-            currNode = currNode->next;
-            i++;
+            ListNode* nextNode = kthNode->next;
+            kthNode->next = nullptr;
+            reverseLL(temp);
+            if(temp==head){
+                //this means it is the first group
+                head = kthNode;
+            }else{
+                prevNode->next = kthNode;
+              
+            }
+            prevNode = temp;
+            temp = nextNode; 
         }
-
-        // break link
-        revEnd->next = nullptr;
-
-        // reverse sublist
-        ListNode* newSubHead = reverseList(revStart);
-
-        // reattach
-        if (revStartPrev != nullptr) {
-            revStartPrev->next = newSubHead;
-        } else {
-            head = newSubHead; // sublist started from head
-        }
-
-        revStart->next = revEndNext; // old start is now end
-
         return head;
     }
-
-
-   ListNode* reverseKGroup(ListNode* head, int k) {
-    if (!head || k == 1) return head;
-
-    ListNode dummy(0);
-    dummy.next = head;
-    ListNode* prevGroupEnd = &dummy;
-
-    while (true) {
-        // check if at least k nodes exist
-        ListNode* kth = prevGroupEnd;
-        for (int i = 0; i < k && kth != nullptr; i++) {
-            kth = kth->next;
-        }
-        if (kth == nullptr) break; // less than k nodes left
-
-        // reverse k nodes
-        ListNode* groupStart = prevGroupEnd->next;
-        ListNode* nextGroupStart = kth->next;
-
-        // detach group
-        kth->next = nullptr;
-
-        // reverse group
-        ListNode* newGroupHead = reverseList(groupStart);
-
-        // reattach
-        prevGroupEnd->next = newGroupHead;
-        groupStart->next = nextGroupStart;
-
-        // move prevGroupEnd
-        prevGroupEnd = groupStart;
-    }
-
-    return dummy.next;
-}
 };
