@@ -57,6 +57,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0004-median-of-two-sorted-arrays](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0417-pacific-atlantic-water-flow](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0496-next-greater-element-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
@@ -100,4 +101,16 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
+## Depth-First Search
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+## Matrix
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 <!---LeetCode Topics End-->
