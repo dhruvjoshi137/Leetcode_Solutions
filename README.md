@@ -18,6 +18,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0402-remove-k-digits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,6 +91,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
@@ -99,6 +101,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
@@ -126,6 +129,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [1612-avoid-flood-in-the-city](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1612-avoid-flood-in-the-city) |
 ## Heap (Priority Queue)
 |  |
