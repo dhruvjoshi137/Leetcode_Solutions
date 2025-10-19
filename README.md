@@ -103,6 +103,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0496-next-greater-element-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
@@ -113,6 +114,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0402-remove-k-digits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Counting
@@ -144,4 +146,12 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [1612-avoid-flood-in-the-city](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1612-avoid-flood-in-the-city) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
