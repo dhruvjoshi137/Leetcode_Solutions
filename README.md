@@ -65,6 +65,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0004-median-of-two-sorted-arrays](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0414-third-maximum-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
@@ -87,6 +88,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [1612-avoid-flood-in-the-city](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
