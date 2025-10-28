@@ -26,6 +26,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 ## Linked List
@@ -68,6 +69,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0033-search-in-rotated-sorted-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0414-third-maximum-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0496-next-greater-element-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
@@ -110,6 +112,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
@@ -122,6 +125,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
@@ -150,6 +154,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 ## Greedy
 |  |
