@@ -55,6 +55,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0002-add-two-numbers](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
 | ------- |
@@ -190,4 +191,8 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3676-smallest-number-with-all-set-bits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 <!---LeetCode Topics End-->
