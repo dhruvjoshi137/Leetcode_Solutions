@@ -29,6 +29,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0085-maximal-rectangle](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Linked List
 |  |
 | ------- |
@@ -79,6 +80,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0943-sum-of-subarray-minimums](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1612-avoid-flood-in-the-city](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2169-simple-bank-system) |
@@ -120,6 +122,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0735-asteroid-collision](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -132,6 +135,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0503-next-greater-element-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Counting
 |  |
@@ -162,6 +166,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | ------- |
 | [0402-remove-k-digits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [1612-avoid-flood-in-the-city](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
