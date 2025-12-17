@@ -19,6 +19,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0402-remove-k-digits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0474-ones-and-zeroes](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
