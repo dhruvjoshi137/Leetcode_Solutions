@@ -55,6 +55,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0142-linked-list-cycle-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2169-simple-bank-system](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -95,6 +96,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0735-asteroid-collision](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1612-avoid-flood-in-the-city](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
