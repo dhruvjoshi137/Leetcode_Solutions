@@ -111,6 +111,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [1612-avoid-flood-in-the-city](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1895-largest-magic-square](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2169-simple-bank-system) |
@@ -212,6 +213,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | ------- |
 | [0085-maximal-rectangle](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [1895-largest-magic-square](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1975-maximum-matrix-sum) |
 ## Greedy
 |  |
@@ -246,6 +248,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 ## Prefix Sum
 |  |
 | ------- |
+| [1895-largest-magic-square](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1895-largest-magic-square) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Backtracking
 |  |
