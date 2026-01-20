@@ -124,6 +124,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3453-separate-squares-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3454-separate-squares-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -266,6 +267,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 ## Bit Manipulation
 |  |
 | ------- |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Tree
 |  |
