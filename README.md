@@ -121,6 +121,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-largest-magic-square](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2169-simple-bank-system) |
 | [2227-sum-of-subarray-ranges](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2227-sum-of-subarray-ranges) |
@@ -165,6 +166,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0215-kth-largest-element-in-an-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -266,6 +268,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Prefix Sum
