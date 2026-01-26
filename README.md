@@ -13,6 +13,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0042-trapping-rain-water](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0658-find-k-closest-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -106,6 +107,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0474-ones-and-zeroes](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
+| [0658-find-k-closest-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0735-asteroid-collision](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -147,6 +149,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0004-median-of-two-sorted-arrays](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0069-sqrtx) |
+| [0658-find-k-closest-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1612-avoid-flood-in-the-city](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -165,6 +168,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0018-4sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
+| [0658-find-k-closest-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -250,6 +254,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [1612-avoid-flood-in-the-city](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -268,6 +273,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0658-find-k-closest-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
