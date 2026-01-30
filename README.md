@@ -84,6 +84,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0013-roman-to-integer](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0069-sqrtx) |
+| [0973-k-closest-points-to-origin](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1390-four-divisors) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -117,6 +118,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0943-sum-of-subarray-minimums](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0973-k-closest-points-to-origin](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -170,6 +172,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0004-median-of-two-sorted-arrays](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -179,6 +182,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0347-top-k-frequent-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 | [0658-find-k-closest-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -269,6 +273,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0215-kth-largest-element-in-an-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1612-avoid-flood-in-the-city](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -325,6 +330,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 ## Geometry
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Segment Tree
@@ -350,6 +356,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
