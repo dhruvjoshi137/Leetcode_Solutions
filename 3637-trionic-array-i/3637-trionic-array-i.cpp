@@ -14,6 +14,6 @@ public:
         if(i==n) return false;
 
         while(i<n && nums[i]>nums[i-1]) i++;
-        return i==n;
-    }
+        return i==n; //return true agar complete array traverse kar liya hai toh
+    } 
 };
