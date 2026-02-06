@@ -154,6 +154,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3637-trionic-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -195,6 +196,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Stack
 |  |
 | ------- |
@@ -303,6 +305,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
 |  |
 | ------- |
