@@ -25,6 +25,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0005-longest-palindromic-substring](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0402-remove-k-digits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
@@ -101,6 +102,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0018-4sum) |
@@ -382,4 +384,8 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
