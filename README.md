@@ -26,6 +26,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0006-zigzag-conversion](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0402-remove-k-digits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -208,6 +209,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
