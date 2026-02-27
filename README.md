@@ -63,6 +63,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0061-rotate-list](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0203-remove-linked-list-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -110,6 +111,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0002-add-two-numbers](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0203-remove-linked-list-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
 ## Array
 |  |
 | ------- |
