@@ -48,6 +48,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0118-pascals-triangle](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0416-partition-equal-subset-sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -136,6 +137,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0416-partition-equal-subset-sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0658-find-k-closest-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
@@ -347,6 +349,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0051-n-queens) |
+| [0494-target-sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Enumeration
 |  |
