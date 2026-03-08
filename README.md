@@ -53,6 +53,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0943-sum-of-subarray-minimums](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Linked List
@@ -155,6 +156,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [1390-four-divisors](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1390-four-divisors) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -222,6 +224,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0414-third-maximum-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 | [0658-find-k-closest-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
