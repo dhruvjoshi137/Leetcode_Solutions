@@ -54,6 +54,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0416-partition-equal-subset-sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0494-target-sum) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1143-longest-common-subsequence](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
@@ -151,6 +152,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0496-next-greater-element-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0658-find-k-closest-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0735-asteroid-collision](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
@@ -406,6 +408,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3454-separate-squares-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3454-separate-squares-ii) |
 ## Line Sweep
 |  |
@@ -455,4 +458,8 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
