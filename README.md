@@ -115,6 +115,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0067-add-binary](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+| [0223-rectangle-area](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0223-rectangle-area) |
 | [0973-k-closest-points-to-origin](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1390-four-divisors) |
@@ -412,6 +413,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0223-rectangle-area) |
 | [0973-k-closest-points-to-origin](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
