@@ -39,6 +39,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0402-remove-k-digits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
+| [0583-delete-operation-for-two-strings](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1143-longest-common-subsequence](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -59,6 +60,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0416-partition-equal-subset-sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0494-target-sum) |
+| [0583-delete-operation-for-two-strings](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
