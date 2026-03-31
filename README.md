@@ -120,6 +120,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0067-add-binary](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0089-gray-code) |
 | [0223-rectangle-area](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0223-rectangle-area) |
 | [0973-k-closest-points-to-origin](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -388,6 +389,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0051-n-queens) |
+| [0089-gray-code](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0089-gray-code) |
 | [0494-target-sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Enumeration
@@ -399,6 +401,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0190-reverse-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1009-complement-of-base-10-integer) |
