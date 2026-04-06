@@ -37,6 +37,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0058-length-of-last-word](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0290-word-pattern](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0402-remove-k-digits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -59,6 +60,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0085-maximal-rectangle](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
+| [0139-word-break](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -94,6 +96,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
+| [0139-word-break](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0290-word-pattern](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -157,6 +160,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0088-merge-sorted-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0322-coin-change) |
@@ -474,6 +478,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0139-word-break) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -486,6 +491,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0139-word-break) |
 ## Binary Indexed Tree
 |  |
 | ------- |
