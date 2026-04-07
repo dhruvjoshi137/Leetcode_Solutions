@@ -36,6 +36,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0038-count-and-say](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0290-word-pattern](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0290-word-pattern) |
@@ -57,6 +58,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0042-trapping-rain-water](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
