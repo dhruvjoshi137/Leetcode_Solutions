@@ -119,6 +119,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [3242-count-elements-with-maximum-frequency](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Math
 |  |
@@ -227,6 +228,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [3637-trionic-array-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3861-minimum-capacity-box](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3861-minimum-capacity-box) |
 ## Binary Search
