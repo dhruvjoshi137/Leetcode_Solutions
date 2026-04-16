@@ -90,6 +90,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0025-reverse-nodes-in-k-group](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0092-reverse-linked-list-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0328-odd-even-linked-list) |
