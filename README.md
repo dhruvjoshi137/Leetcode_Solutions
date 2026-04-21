@@ -70,6 +70,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0139-word-break](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0494-target-sum) |
@@ -430,6 +431,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0089-gray-code](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0190-reverse-bits) |
+| [0338-counting-bits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0338-counting-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
