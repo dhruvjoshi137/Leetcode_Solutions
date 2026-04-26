@@ -55,6 +55,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Dynamic Programming
 |  |
