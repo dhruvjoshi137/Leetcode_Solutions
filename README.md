@@ -87,6 +87,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3660-jump-game-ix](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3660-jump-game-ix) |
 ## Linked List
 |  |
 | ------- |
@@ -248,6 +249,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [3637-trionic-array-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3660-jump-game-ix](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3660-jump-game-ix) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3861-minimum-capacity-box](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3861-minimum-capacity-box) |
