@@ -58,6 +58,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,6 +130,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -240,6 +242,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -521,6 +524,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0139-word-break) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Rolling Hash
 |  |
 | ------- |
