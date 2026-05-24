@@ -36,6 +36,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0013-roman-to-integer](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0067-add-binary) |
@@ -63,6 +64,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
@@ -441,6 +443,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0089-gray-code) |
 | [0494-target-sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0494-target-sum) |
