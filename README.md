@@ -198,6 +198,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0118-pascals-triangle](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0139-word-break) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0322-coin-change) |
@@ -278,6 +279,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0035-search-insert-position](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
