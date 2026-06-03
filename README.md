@@ -194,6 +194,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0048-rotate-image](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -366,6 +367,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
@@ -394,6 +396,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
