@@ -99,6 +99,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [1871-jump-game-vii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1871-jump-game-vii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3660-jump-game-ix) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Linked List
 |  |
 | ------- |
@@ -169,6 +170,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
 |  |
@@ -472,6 +474,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Bit Manipulation
 |  |
 | ------- |
