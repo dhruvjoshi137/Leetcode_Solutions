@@ -23,6 +23,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0455-assign-cookies](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2540-minimum-common-value) |
@@ -253,6 +254,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2169-simple-bank-system) |
 | [2227-sum-of-subarray-ranges](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -385,6 +387,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0735-asteroid-collision](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
