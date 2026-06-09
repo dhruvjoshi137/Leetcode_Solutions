@@ -285,6 +285,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [3643-flip-square-submatrix-vertically](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3660-jump-game-ix) |
+| [3689-maximum-total-subarray-value-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3861-minimum-capacity-box](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3861-minimum-capacity-box) |
@@ -433,6 +434,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [3689-maximum-total-subarray-value-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Heap (Priority Queue)
 |  |
