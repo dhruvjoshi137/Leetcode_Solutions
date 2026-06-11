@@ -42,6 +42,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0022-generate-parentheses](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0072-edit-distance) |
@@ -76,6 +77,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0005-longest-palindromic-substring](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0072-edit-distance) |
@@ -186,6 +188,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0002-add-two-numbers](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
 ## Array
@@ -430,6 +433,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0402-remove-k-digits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
