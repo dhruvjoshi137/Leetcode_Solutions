@@ -205,6 +205,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0033-search-in-rotated-sorted-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0057-insert-interval) |
@@ -489,6 +490,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0089-gray-code) |
 | [0494-target-sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0494-target-sum) |
