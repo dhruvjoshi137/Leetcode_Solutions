@@ -87,6 +87,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0097-interleaving-string](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0338-counting-bits) |
@@ -222,6 +223,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0118-pascals-triangle](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0198-house-robber) |
