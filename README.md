@@ -141,6 +141,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0442-find-all-duplicates-in-an-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1331-rank-transform-of-an-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1612-avoid-flood-in-the-city](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -251,6 +252,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1331-rank-transform-of-an-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1390-four-divisors](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1390-four-divisors) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -347,6 +349,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0455-assign-cookies](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1331-rank-transform-of-an-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
