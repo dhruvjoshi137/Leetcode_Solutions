@@ -246,6 +246,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0503-next-greater-element-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0658-find-k-closest-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0724-find-pivot-index](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
@@ -498,6 +499,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1871-jump-game-vii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1871-jump-game-vii) |
 | [1895-largest-magic-square](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1895-largest-magic-square) |
