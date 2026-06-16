@@ -23,6 +23,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0189-rotate-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
+| [1768-merge-strings-alternately](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -63,6 +64,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [1143-longest-common-subsequence](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1768-merge-strings-alternately](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1768-merge-strings-alternately) |
 | [1871-jump-game-vii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1871-jump-game-vii) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2211-count-collisions-on-a-road) |
