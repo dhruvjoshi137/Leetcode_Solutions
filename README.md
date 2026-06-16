@@ -52,6 +52,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0097-interleaving-string](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0290-word-pattern](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0290-word-pattern) |
+| [0389-find-the-difference](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
@@ -140,6 +141,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0169-majority-element](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
@@ -351,6 +353,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0169-majority-element](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0455-assign-cookies) |
@@ -531,6 +534,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0136-single-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [1009-complement-of-base-10-integer](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
