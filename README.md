@@ -51,6 +51,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0091-decode-ways](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
@@ -139,6 +140,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0139-word-break](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0389-find-the-difference) |
@@ -352,6 +354,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0088-merge-sorted-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0414-third-maximum-number) |
