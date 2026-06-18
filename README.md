@@ -193,6 +193,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0396-rotate-function](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0396-rotate-function) |
 | [0973-k-closest-points-to-origin](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1390-four-divisors) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
