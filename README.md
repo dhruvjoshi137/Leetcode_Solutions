@@ -282,6 +282,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [1612-avoid-flood-in-the-city](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1732-find-the-highest-altitude](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -521,6 +522,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | ------- |
 | [0724-find-pivot-index](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1732-find-the-highest-altitude](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1871-jump-game-vii) |
 | [1895-largest-magic-square](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1895-largest-magic-square) |
 | [2574-left-and-right-sum-differences](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
