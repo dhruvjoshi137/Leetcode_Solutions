@@ -146,6 +146,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0139-word-break](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -254,6 +255,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0189-rotate-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0322-coin-change) |
@@ -381,6 +383,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0088-merge-sorted-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0389-find-the-difference) |
@@ -438,6 +441,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
