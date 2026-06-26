@@ -176,6 +176,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Math
@@ -340,6 +341,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [3660-jump-game-ix](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3838-weighted-word-mapping](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3838-weighted-word-mapping) |
@@ -373,6 +375,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0347-top-k-frequent-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -553,6 +556,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [2574-left-and-right-sum-differences](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -610,6 +614,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0673-number-of-longest-increasing-subsequence](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3454-separate-squares-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3454-separate-squares-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Line Sweep
 |  |
 | ------- |
@@ -681,4 +686,5 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
