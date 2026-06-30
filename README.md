@@ -160,6 +160,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0496-next-greater-element-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1331-rank-transform-of-an-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1612-avoid-flood-in-the-city](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -293,6 +294,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [1266-minimum-time-visiting-all-points](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1390-four-divisors) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -406,6 +408,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0973-k-closest-points-to-origin](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1331-rank-transform-of-an-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -692,6 +695,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 ## Counting Sort
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Merge Sort
 |  |
