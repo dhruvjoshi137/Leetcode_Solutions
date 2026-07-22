@@ -291,6 +291,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0724-find-pivot-index](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0860-lemonade-change](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0896-monotonic-array) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -531,6 +532,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0402-remove-k-digits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0860-lemonade-change) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1612-avoid-flood-in-the-city](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1612-avoid-flood-in-the-city) |
