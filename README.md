@@ -256,6 +256,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0066-plus-one](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
@@ -598,6 +599,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0022-generate-parentheses](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0089-gray-code) |
 | [0494-target-sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -611,6 +613,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0190-reverse-bits) |
