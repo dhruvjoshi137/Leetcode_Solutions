@@ -107,6 +107,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0396-rotate-function](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
@@ -208,6 +209,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0189-rotate-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0223-rectangle-area) |
 | [0396-rotate-function](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0973-k-closest-points-to-origin](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -234,6 +236,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0050-powx-n](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 ## Array
 |  |
 | ------- |
@@ -288,6 +291,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0442-find-all-duplicates-in-an-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
@@ -735,4 +739,8 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
