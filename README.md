@@ -20,6 +20,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0061-rotate-list](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0283-move-zeroes) |
@@ -136,6 +137,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0061-rotate-list](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0092-reverse-linked-list-ii) |
+| [0141-linked-list-cycle](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
@@ -154,6 +156,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0073-set-matrix-zeroes](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0139-word-break) |
+| [0141-linked-list-cycle](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
@@ -765,4 +768,8 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
