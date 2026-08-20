@@ -366,6 +366,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -516,6 +517,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [2169-simple-bank-system](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3838-weighted-word-mapping](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3838-weighted-word-mapping) |
