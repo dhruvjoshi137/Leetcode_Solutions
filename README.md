@@ -214,6 +214,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0223-rectangle-area) |
+| [0263-ugly-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0263-ugly-number) |
 | [0396-rotate-function](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0973-k-closest-points-to-origin](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
