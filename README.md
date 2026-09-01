@@ -216,6 +216,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0223-rectangle-area) |
+| [0258-add-digits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0263-ugly-number) |
 | [0396-rotate-function](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
@@ -514,6 +515,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
@@ -792,4 +794,8 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
