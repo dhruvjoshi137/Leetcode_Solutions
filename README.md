@@ -240,6 +240,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -398,6 +399,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3838-weighted-word-mapping](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3838-weighted-word-mapping) |
 | [3861-minimum-capacity-box](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3861-minimum-capacity-box) |
+| [3875-construct-uniform-parity-array-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
