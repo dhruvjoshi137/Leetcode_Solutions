@@ -539,6 +539,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0417-pacific-atlantic-water-flow](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -546,6 +547,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0322-coin-change](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -721,6 +723,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 ## Graph Theory
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Shortest Path
 |  |
@@ -771,6 +774,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [1971-find-if-path-exists-in-graph](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Game Theory
 |  |
 | ------- |
