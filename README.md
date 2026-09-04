@@ -400,6 +400,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [3838-weighted-word-mapping](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3838-weighted-word-mapping) |
 | [3861-minimum-capacity-box](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3861-minimum-capacity-box) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -634,6 +635,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3903-smallest-stable-index-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Backtracking
 |  |
 | ------- |
