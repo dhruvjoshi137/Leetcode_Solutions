@@ -55,6 +55,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0072-edit-distance](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0290-word-pattern) |
@@ -101,6 +102,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0085-maximal-rectangle](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
