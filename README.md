@@ -69,6 +69,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0583-delete-operation-for-two-strings](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0709-to-lower-case) |
+| [0940-distinct-subsequences-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1041-robot-bounded-in-circle](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1041-robot-bounded-in-circle) |
@@ -117,6 +118,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0516-longest-palindromic-subsequence](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0940-distinct-subsequences-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1092-shortest-common-supersequence](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
