@@ -822,4 +822,8 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0258-add-digits) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
