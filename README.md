@@ -326,6 +326,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0724-find-pivot-index](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0835-image-overlap](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0896-monotonic-array) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
@@ -572,6 +573,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0074-search-a-2d-matrix](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0835-image-overlap](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0835-image-overlap) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1572-matrix-diagonal-sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
