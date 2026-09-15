@@ -33,6 +33,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [2161-partition-array-according-to-given-pivot](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
@@ -83,6 +84,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2211-count-collisions-on-a-road) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -129,6 +131,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1871-jump-game-vii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1871-jump-game-vii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3660-jump-game-ix) |
@@ -603,6 +606,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [2078-two-furthest-houses-with-different-colors](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2233-maximum-product-after-k-increments](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2233-maximum-product-after-k-increments) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3689-maximum-total-subarray-value-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Heap (Priority Queue)
