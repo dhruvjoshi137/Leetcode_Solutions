@@ -129,6 +129,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1871-jump-game-vii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1871-jump-game-vii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -241,6 +242,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [1344-angle-between-hands-of-a-clock](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -651,6 +653,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0724-find-pivot-index](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1871-jump-game-vii) |
 | [1895-largest-magic-square](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1895-largest-magic-square) |
@@ -785,6 +788,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## String Matching
 |  |
 | ------- |
