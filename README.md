@@ -92,6 +92,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
@@ -558,6 +559,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [2211-count-collisions-on-a-road](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3838-weighted-word-mapping](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3838-weighted-word-mapping) |
