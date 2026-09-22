@@ -101,6 +101,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0022-generate-parentheses](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0072-edit-distance) |
@@ -291,6 +292,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0033-search-in-rotated-sorted-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0051-n-queens) |
@@ -610,6 +612,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | ------- |
 | [0011-container-with-most-water](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0402-remove-k-digits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0455-assign-cookies) |
