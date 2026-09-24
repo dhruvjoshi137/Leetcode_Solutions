@@ -258,6 +258,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -416,6 +417,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3634-minimum-removals-to-balance-array) |
