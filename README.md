@@ -82,6 +82,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1871-jump-game-vii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1871-jump-game-vii) |
@@ -534,6 +535,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [1021-remove-outermost-parentheses](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2211-count-collisions-on-a-road](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2227-sum-of-subarray-ranges](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2227-sum-of-subarray-ranges) |
@@ -890,4 +892,5 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
