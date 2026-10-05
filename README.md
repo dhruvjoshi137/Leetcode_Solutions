@@ -71,6 +71,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0657-robot-return-to-origin](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0709-to-lower-case) |
+| [0856-score-of-parentheses](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -533,6 +534,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0678-valid-parenthesis-string](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
 | [0937-online-stock-span](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -898,6 +900,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0020-valid-parentheses](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
