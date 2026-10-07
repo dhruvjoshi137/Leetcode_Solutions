@@ -217,6 +217,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -417,6 +418,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -568,6 +570,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0383-ransom-note](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Simulation
