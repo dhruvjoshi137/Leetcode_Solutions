@@ -244,6 +244,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0223-rectangle-area) |
+| [0231-power-of-two](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0263-ugly-number) |
 | [0396-rotate-function](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0396-rotate-function) |
@@ -287,6 +288,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0050-powx-n](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 ## Array
 |  |
@@ -737,6 +739,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0090-subsets-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0389-find-the-difference) |
