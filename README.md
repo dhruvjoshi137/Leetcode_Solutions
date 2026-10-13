@@ -441,6 +441,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [3651-minimum-cost-path-with-teleportations](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -524,6 +525,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [3536-maximum-product-of-two-digits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3634-minimum-removals-to-balance-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
@@ -663,6 +665,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [2333-minimum-sum-of-squared-difference](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3689-maximum-total-subarray-value-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Heap (Priority Queue)
 |  |
