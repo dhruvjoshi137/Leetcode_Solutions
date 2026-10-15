@@ -211,6 +211,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -414,6 +415,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [2540-minimum-common-value](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -787,6 +789,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3454-separate-squares-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3454-separate-squares-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -847,6 +850,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Combinatorics
 |  |
 | ------- |
