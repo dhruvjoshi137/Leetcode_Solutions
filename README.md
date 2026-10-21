@@ -101,6 +101,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [3121-count-the-number-of-special-characters-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3838-weighted-word-mapping) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
