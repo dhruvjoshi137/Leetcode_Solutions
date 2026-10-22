@@ -134,6 +134,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0678-valid-parenthesis-string](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1027-longest-arithmetic-subsequence](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1092-shortest-common-supersequence](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1140-stone-game-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
@@ -197,6 +198,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0442-find-all-duplicates-in-an-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1027-longest-arithmetic-subsequence](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1096-brace-expansion-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -370,6 +372,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1027-longest-arithmetic-subsequence](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1140-stone-game-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -471,6 +474,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0658-find-k-closest-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0875-koko-eating-bananas) |
+| [1027-longest-arithmetic-subsequence](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1612-avoid-flood-in-the-city](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1612-avoid-flood-in-the-city) |
