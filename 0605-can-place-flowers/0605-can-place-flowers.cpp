@@ -8,7 +8,7 @@ public:
             bool right_empty = (i == length - 1) || (flowerbed[i + 1] == 0);
             
             if (flowerbed[i] == 0 && left_empty && right_empty) {
-                flowerbed[i] = 
+                flowerbed[i] = 1;
                 n--;
             }
             
