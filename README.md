@@ -449,6 +449,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [3634-minimum-removals-to-balance-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -773,6 +774,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Tree
 |  |
