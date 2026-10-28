@@ -923,6 +923,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0176-second-highest-salary) |
+| [0197-rising-temperature](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1068-product-sales-analysis-i) |
