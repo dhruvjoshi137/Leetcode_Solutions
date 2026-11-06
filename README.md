@@ -255,6 +255,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0258-add-digits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0263-ugly-number) |
 | [0396-rotate-function](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0396-rotate-function) |
+| [0400-nth-digit](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0400-nth-digit) |
 | [0445-add-two-numbers-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -481,6 +482,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0074-search-a-2d-matrix](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0400-nth-digit](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0400-nth-digit) |
 | [0658-find-k-closest-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0875-koko-eating-bananas) |
