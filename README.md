@@ -365,6 +365,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0496-next-greater-element-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
+| [0636-exclusive-time-of-functions](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0658-find-k-closest-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0682-baseball-game) |
@@ -568,6 +569,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0445-add-two-numbers-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
+| [0636-exclusive-time-of-functions](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
