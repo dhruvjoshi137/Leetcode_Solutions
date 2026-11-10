@@ -152,6 +152,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [3524-find-x-value-of-array-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3660-jump-game-ix) |
+| [3693-climbing-stairs-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Linked List
 |  |
@@ -463,6 +464,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [3651-minimum-cost-path-with-teleportations](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3693-climbing-stairs-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
