@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int climbStairs(int n, std::vector<int>& costs) {
+    int climbStairs(int n, vector<int>& costs) {
         int dp0 = 0; 
         int dp1 = 0; 
         int dp2 = 0; 
