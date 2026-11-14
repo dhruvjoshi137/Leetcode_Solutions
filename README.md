@@ -449,6 +449,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3453-separate-squares-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3454-separate-squares-ii) |
@@ -739,6 +740,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
@@ -753,6 +755,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [1871-jump-game-vii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1871-jump-game-vii) |
 | [1895-largest-magic-square](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1895-largest-magic-square) |
 | [2574-left-and-right-sum-differences](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
