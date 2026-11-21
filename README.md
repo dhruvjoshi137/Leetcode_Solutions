@@ -200,6 +200,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0438-find-all-anagrams-in-a-string](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1027-longest-arithmetic-subsequence](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1096-brace-expansion-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1096-brace-expansion-ii) |
@@ -370,6 +371,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0503-next-greater-element-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
 | [0636-exclusive-time-of-functions](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0636-exclusive-time-of-functions) |
+| [0645-set-mismatch](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0682-baseball-game) |
@@ -539,6 +541,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0442-find-all-duplicates-in-an-array](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0645-set-mismatch](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -796,6 +799,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [0287-find-the-duplicate-number](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
