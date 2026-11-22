@@ -91,6 +91,7 @@ Daily solutions to LeetCode problems, written in C++. Consistently solving and i
 | [1871-jump-game-vii](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/dhruvjoshi137/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
